@@ -1,21 +1,11 @@
-##HTML and CSS Projects
+# HTML and CSS Projects
 
-This repository contains my projects for the Version Control course, showcasing what I’ve learned in:
+This repository contains my HTML and CSS projects for the Version Control course.  
+These projects demonstrate my understanding of HTML structure, CSS styling, page layout, and responsive design.
 
-- HTML structure and elements
-- CSS styling, layouts, and animations
-- Responsive design techniques
+## Portfolio Website
+This repository includes a custom portfolio website built with HTML and CSS.  
+It features a navigation bar, background video section, About section, GitHub section, and a working contact form.
 
-##Portfolio Website
-
-My main project is a personal portfolio built with HTML and CSS. It includes:
-
-- Animated navigation bar
-- Hero section with background video
-- About Me section
-- GitHub link section
-- Working contact form
-
-Purpose
-
-This repo tracks my progress, helps me practice web design, and strengthens my front-end development skills.
+## Purpose
+The purpose of this repository is to practice web development skills, improve front-end design abilities, and track my progress throughout the course.
